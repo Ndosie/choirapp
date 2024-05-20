@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782943364604",
+    "firebase_url": "https://choir-app-ab724-default-rtdb.firebaseio.com",
+    "project_id": "choir-app-ab724",
+    "storage_bucket": "choir-app-ab724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782943364604:android:e0b1d7092e501512213e79",
+        "android_client_info": {
+          "package_name": "com.example.choirapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782943364604-a44ai6fu5l2huheitbbf9oi55o18g4c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.choirapp",
+            "certificate_hash": "47c71865814b17aaf924a43f859d3d294fcf2e03"
+          }
+        },
+        {
+          "client_id": "782943364604-01b37ljjmqftutte3feulc5thij1a8gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPndDHR3mIihXW3f5_uisHoqTzLRyOAdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782943364604-01b37ljjmqftutte3feulc5thij1a8gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
